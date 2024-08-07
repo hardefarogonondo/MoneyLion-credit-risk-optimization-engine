@@ -4,3 +4,4 @@
 data/raw/clarity_underwriting_variables.csv
 data/raw/loan.csv
 data/raw/payment.csv
+data/processed/df.pkl
